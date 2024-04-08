@@ -22,7 +22,9 @@ def read_json_file(filename):
 
 
 # Path to the session file
-session_file bot_token = (6720597040:AAEcuwLN92_dXuLFQ6X9YlsldmRzSVmvBbE")
+session_file = 'bot'
+
+bot_token = ("6720597040:AAEcuwLN92_dXuLFQ6X9YlsldmRzSVmvBbE")
 
 # Create a new TelegramClient for signing in
 client = TelegramClient(session_file, api_id, api_hash).start(bot_token=bot_token)
