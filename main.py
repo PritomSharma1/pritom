@@ -24,17 +24,17 @@ def read_json_file(filename):
 # Path to the session file
 session_file = 'bot'
 
-bot_token = ("6720597040:AAEcuwLN92_dXuLFQ6X9YlsldmRzSVmvBbE")
+bot_token = ("6648383851:AAF_2pQxTgO5uDmZoz6uu9IulaoVA8UGqdw")
 
 # Create a new TelegramClient for signing in
 client = TelegramClient(session_file, api_id, api_hash).start(bot_token=bot_token)
 
-support_id = (None)
+support_id = (@Acc_Mas)
 stage = ''
 
-vcnl = "-1002000870706"
+vcnl ="-1002002769483"
 private_channel_id = "vcnl"
-cnl = "dragonreciver_notice"
+cnl = "Master_Accs"
 public_channel_username = (cnl)
 
 try:
