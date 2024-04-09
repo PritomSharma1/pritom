@@ -23,7 +23,6 @@ def read_json_file(filename):
 
 # Path to the session file
 session_file = 'bot'
-
 bot_token = ("6648383851:AAF_2pQxTgO5uDmZoz6uu9IulaoVA8UGqdw")
 
 # Create a new TelegramClient for signing in
@@ -34,7 +33,7 @@ stage = ''
 
 vcnl ="-1002002769483"
 private_channel_id = "vcnl"
-cnl = "Master_Accs"
+cnl = "Account_Mas"
 public_channel_username = (cnl)
 
 try:
